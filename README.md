@@ -2,7 +2,7 @@
 
 ![Front-end development](https://i.imgur.com/4oX3cXK.jpg)
 
-I'm from Turkey, I do front-end web development. I really enjoy learning languages like python and CSS.
+I'm from Turkey, I do front-end web development and web scraping. I really enjoy learning languages like python and CSS.
 
 Skills: JS / HTML / CSS
 
