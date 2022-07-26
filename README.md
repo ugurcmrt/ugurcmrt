@@ -1,12 +1,10 @@
 ### Hi there 👋, my name is Uğur Cömert
 
-![Front-end development](https://i.imgur.com/4oX3cXK.jpg)
-
 I'm from Turkey, I do front-end web development and web scraping. I really enjoy learning languages like python and CSS.
 
 Skills: JS / HTML / CSS
 
-- 🌱 I’m currently learning JS and React 
+- 🌱 I’m currently learning React and Python. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ugurcmrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uğur-cömert-088205195/)  
