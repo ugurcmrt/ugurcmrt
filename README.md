@@ -2,7 +2,7 @@
 
 I'm from Turkey, I do front-end web development and web scraping. I really enjoy learning languages like python and CSS.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / Python
 
 - 🌱 I’m currently learning React and Python. 
 
